@@ -1,0 +1,31 @@
+{
+  "name": "antd-tinymce",
+  "version": "1.0.1",
+  "description": "TinyMCE Rich-Text-Editor for Ant.Design",
+  "private": false,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdwong/antd-tinymce.git"
+  },
+  "dependencies": {
+    "@tinymce/tinymce-react": "^3.6.0"
+  },
+  "keywords": [
+    "tinymce",
+    "ant-design"
+  ],
+  "author": "Bun Wong <bunwong@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/hdwong/antd-tinymce/issues"
+  },
+  "homepage": "https://github.com/hdwong/antd-tinymce#readme"
+}
